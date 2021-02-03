@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 300px;
+    margin: auto;
+    background-color: rgb(195, 243, 248);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+input {
+    width: 100%;
+    display: block;
+    padding: 5px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: rgb(54, 52, 52);
+}
+
+button {
+    padding: 5px;
+    width: 100%;
+    background-color: #000;
+    color: rgb(195, 243, 248);
+    border: none;
+    border-radius: 5px;
+}
